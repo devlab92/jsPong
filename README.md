@@ -1,2 +1,2 @@
 # jsPong
-My first game created in JS.
+Creating my first game in JS.
